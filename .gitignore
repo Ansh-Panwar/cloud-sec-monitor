@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Python virtual environments
+.venv/
+venv/
+
+# Lambda build artifacts
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
